@@ -35,5 +35,3 @@ fields:
   type: text
   hidden: true
   default: person
-pages:
-- _people/sad.md
