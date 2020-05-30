@@ -3,10 +3,10 @@ role:
 - staff
 layout: person
 title: sad
-sub_heading: ''
+sub_heading: too
 thumbnail: "/uploads/2020/05/30/screenshot_20200425-233750.png"
-email: ''
-linkedin: ''
+email: test
+linkedin: aaaa
 published: false
 
 ---
