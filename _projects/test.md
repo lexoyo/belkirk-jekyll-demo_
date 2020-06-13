@@ -1,6 +1,6 @@
 ---
 title: Test
-layout: archive
+layout: default
 
 ---
 ABC Stastic
